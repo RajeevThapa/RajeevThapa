@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeevthapa" alt="rajeevthapa" /></a> </p>
 
-- 🔭 I’m currently working on [CICD - Calculator App](https://github.com/RajeevThapa/calculator-app)
+- 🔭 I’m currently working on [DevOps CICD and More](https://github.com/RajeevThapa/all-in-one)
 
 - 🌱 I’m currently learning **Terraform**
 
